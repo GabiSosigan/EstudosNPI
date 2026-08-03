@@ -1,1 +1,16 @@
-# EstudosNPI
+# Estudos NPI
+## Um repositório para commitar projetos e atividades do cronograma
+
+#### Cronograma atual (podem haver variações):
+
+| Dia | Conteúdo | Tópico Foco | Status 🟢🟡🔴 |
+| :--- | :--- | :--- | :---: |
+| *Segunda* | Python | Introdução ao Python | 🟡 Em Progresso |
+| *Terça* | Javascript | Introdução ao Javascript | 🟡 Em Progresso |
+| *Quarta* | Javascript | Continuação | 🟡 Em Progresso |
+| *Quinta* | Aseprite | Itens, animações e criaturas | 🟡 Em Progresso |
+| *Sexta* | Grupo de IA | ----- | 🟡 Em Progresso |
+
+#### Agenda
+
+**03/08/2026:** Comecei o estudo de Python no site do FreeCodeCamp
