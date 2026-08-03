@@ -5,7 +5,7 @@
 
 | Dia | Conteúdo | Tópico Foco | Status 🟢🟡🔴 |
 | :--- | :--- | :--- | :---: |
-| *Segunda* | Python | Introdução ao Python | 🟡 Em Progresso |
+| *Segunda* | Python | Introdução ao Python | 🟢 Concluído! |
 | *Terça* | Javascript | Introdução ao Javascript | 🟡 Em Progresso |
 | *Quarta* | Javascript | Continuação | 🟡 Em Progresso |
 | *Quinta* | Aseprite | Itens, animações e criaturas | 🟡 Em Progresso |
