@@ -52,3 +52,21 @@ name2 = "thiago"
 age = 20
 nomeidade = name2 + str(age) # concatenar string com int precisa converter o int para string
 print(nomeidade)
+
+name2 = "bia"
+age = 20
+
+infoBia = "bia" + ' ' + str(age) # concatenar string com int precisa converter o int para string
+print(infoBia)
+
+infoBia2 = f"{name2} {age}" # f-string, forma mais simples de concatenar string com int
+print(infoBia2)
+
+minha_string = "Olá, meu nome é Robin e eu tenho 19 anos."
+print(minha_string[16:21]) # fatiamento da string, pega do índice 16 até o 20 (21-1)
+
+print(minha_string.replace("Robin", "Bia")) # substitui a substring "Robin" por "Bia"
+
+print(minha_string.upper()) # deixa a string toda em maiúsculo
+print(minha_string.lower()) # deixa a string toda em minúsculo
+
