@@ -44,5 +44,31 @@ const favoriteSubjectSentence = "My favorite subject is " + favoriteSubject + ".
 console.log(favoriteSubjectSentence);
 
 console.log("Well, it was nice to talk to you. Have a nice day!")
+//Fim do código do FreeCodeCamp
 
+console.log(typeof bot); // Verifica o tipo da variável bot
+
+let exemplo = null;
+console.log(typeof exemplo); // Verifica o tipo da variável exemplo: object (null é considerado um objeto em JavaScript, por causa de um bug)
+
+let age = 25;
+console.log(typeof age)
+
+let cachorro = {
+    nome: "Belinha",
+    idade: 6,
+    raca: "vira-lata"
+}
+
+console.log(typeof cachorro); // Objeto
+console.log(cachorro.nome); // Acessando a propriedade nome do objeto cachorro
+console.log(cachorro.idade); // Acessando a propriedade idade do objeto cachorro
+console.log(cachorro.raca); // Acessando a propriedade raca do objeto cachorro
+
+const vari1 = Symbol("variavel");
+const vari2 = Symbol("variavel");
+console.log(vari1 === vari2); // false, pois cada Symbol é único como um id, mesmo que tenham a mesma descrição.
+
+const bemGrande = 983293829382983293892839283923829382938n; // BigInt, quando um número é muito grande para ser representado como um Number
+console.log(typeof bemGrande); // BigInt
 
